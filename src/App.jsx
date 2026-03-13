@@ -104,7 +104,7 @@ export default function App() {
             raskere og morsommere.
           </p>
           <div className="meta-row">
-            <div className="meta-chip">🗓️ Fredag 14. mars 2026</div>
+            <div className="meta-chip">🗓️ Lørdag 14. mars 2026</div>
             <div className="meta-chip">🕛 Start: 12:00</div>
             <div className="meta-chip">🧑‍💻 WordPress-fagfolk</div>
           </div>
