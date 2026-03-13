@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(mv /Users/sebastian/Documents/Projects/workshopcasogida/workshopcasogida/* /Users/sebastian/Documents/Projects/workshopcasogida/ && mv /Users/sebastian/Documents/Projects/workshopcasogida/workshopcasogida/.* /Users/sebastian/Documents/Projects/workshopcasogida/ 2>/dev/null; rm -rf /Users/sebastian/Documents/Projects/workshopcasogida/workshopcasogida)",
+      "Bash(ls /Users/sebastian/Documents/Projects/workshopcasogida && npm install --prefix /Users/sebastian/Documents/Projects/workshopcasogida 2>&1 | tail -5)",
+      "Bash(npm run:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
